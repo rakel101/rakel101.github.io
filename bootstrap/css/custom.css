@@ -1,0 +1,36 @@
+h1,h2,h3
+{
+	font-size:1em;
+	margin-left:20px;
+	color:#ff8000 ;
+}
+.Home
+{
+	height:100%;
+}
+h5
+{
+	text-decoration:underline;
+	text-align:left;
+	color:#1a1aff;
+	margin-left:20PX;
+	font-size:2em;
+	font-family:new times roman;
+}
+.btn1
+{
+	width:100%;
+	background-color:#d9d9d9;
+	margin-left:60PX;
+	padding:10PX;
+	font-family:cursive;
+}
+.k
+{
+	color:#00ff00;
+	margin-left:20PX;
+}
+.form-group
+{
+	width: 35%;
+}
